@@ -1,1 +1,1 @@
-# Github
+# git-course
